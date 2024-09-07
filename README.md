@@ -1,5 +1,4 @@
-# OOPs-with-Java
-# DSA-with-Java
+# OOPs & DSA-with-Java
 class, object, access modifier, inheritance, array, etc in java.
 
 ....
